@@ -1,4 +1,4 @@
-Based on the existing Rebellion theme that comes with OPNsense
+Based on the existing Rebellion theme that comes with OPNsense.
 
 # Installation
 Access the OPNsense device vis ssh or something like WinSCP, and add the darker_rebellion folder into /usr/local/opnsense/www/themes
